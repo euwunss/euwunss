@@ -8,7 +8,7 @@ Now, as a sophomore CS student at UIC, I’ve expanded my skillset beyond web de
 
 #### 🚀 Goals
 
-I aspire to become a well-rounded software engineer who can contribute to meaningful projects that make a difference. I'm currently focusing on improving my understanding of data structures and algorithms, software design patterns, and learning more about web and mobile development, and AI technologies.
+I aspire to become a well-rounded software engineer who can contribute to meaningful projects that make a difference. I'm currently focusing on improving my understanding of data structures and algorithms, software design patterns, and learning more about web and mobile development, along with AI technologies.
 <!--
 **euwunss/euwunss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

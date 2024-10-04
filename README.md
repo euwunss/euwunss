@@ -1,5 +1,14 @@
-### Hi there 👋
+### Welcome to my page ! 👋
 
+My name is Olha Lashchukevych, and I'm a sophomore Computer Science student with SWE concentration at University of Illinois Chicago (UIC).  
+
+My first experience with writing code was at the age of 11 ignited by a question that spontaneously popped up in my mind: how do websites come to be? That curiosity led me to immerse myself in the world of front-end development, learning and applying HTML and CSS for simple web pages. It was a huge success for a little girl, and it sparked a passion for technology that has only grown since then.
+
+Now, as a sophomore CS student at UIC, I’ve expanded my skillset beyond web development to include C/C++, Python, and JavaScript. Looking forward, I’m excited to continue building projects that combine creativity with technical problem-solving. I’m always eager to learn new technologies and collaborate with others to create solutions that make an impact.
+
+#### 🚀 Goals
+
+I aspire to become a well-rounded software engineer who can contribute to meaningful projects that make a difference. I'm currently focusing on improving my understanding of data structures and algorithms, software design patterns, and learning more about web and mobile development, and AI technologies.
 <!--
 **euwunss/euwunss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Welcome to my page ! 👋
 
-My name is Olha Lashchukevych, and I'm a sophomore Computer Science student with SWE concentration at University of Illinois Chicago (UIC).  
+My name is Olha Lashchukevych, and I'm a sophomore Computer Science student at University of Illinois Chicago (UIC).  
 
 My first experience with writing code was at the age of 11 ignited by a question that spontaneously popped up in my mind: how do websites come to be? That curiosity led me to immerse myself in the world of front-end development, learning and applying HTML and CSS for simple web pages. It was a huge success for a little girl, and it sparked a passion for technology that has only grown since then.
 
